@@ -15,8 +15,8 @@ module.exports = function(grunt) {
           engine: 'im',
 
           sizes: [{
-            name: "Opt15", /* Name of file, such as Brian-05 (if "05" were the name) */
-            width: '15%', /* Width in percent or pixels */
+            name: "Opt10", /* Name of file, such as Brian-05 (if "05" were the name) */
+            width: '10%', /* Width in percent or pixels */
             /*suffix: '_large_2x',*/
             quality: 100 /* Quality, from 1 to 100 */
           },{
