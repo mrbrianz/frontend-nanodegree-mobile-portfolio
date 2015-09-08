@@ -31,7 +31,7 @@ Some useful tips to help you get started:
 Profile, optimize, measure... and then lather, rinse, and repeat. Good luck!
 
 
-## Test
+# Test
 
 
 ####Part 2: Optimize Frames per Second in pizza.html
