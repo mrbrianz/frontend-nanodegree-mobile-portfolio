@@ -19,11 +19,11 @@ module.exports = function(grunt) {
             width: '10%', /* Width in percent or pixels */
             /*suffix: '_large_2x',*/
             quality: 100 /* Quality, from 1 to 100 */
-          },{
+          }/*,{
             name: "Opt50",
             width: '50%',
             quality: 100
-          }/*,{
+          }*//*,{
             name: "Opt15",
             width: '15%',
             quality: 100
@@ -148,15 +148,15 @@ module.exports = function(grunt) {
           engine: 'im',
 
           sizes: [{
-            name: "Opt35", /* Name of file, such as Brian-05 (if "05" were the name) */
-            width: '35%', /* Width in percent or pixels */
+            name: "Opt15", /* Name of file, such as Brian-05 (if "05" were the name) */
+            width: '15%', /* Width in percent or pixels */
             /*suffix: '_large_2x',*/
             quality: 100 /* Quality, from 1 to 100 */
-          },{
+          }/*,{
             name: "Opt50",
             width: '50%',
             quality: 100
-          }/*,{
+          }*//*,{
             name: "Opt15",
             width: '15%',
             quality: 100

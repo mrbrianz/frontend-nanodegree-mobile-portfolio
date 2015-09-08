@@ -39,12 +39,12 @@ Profile, optimize, measure... and then lather, rinse, and repeat. Good luck!
 * Changed the print stylesheet to type 'print' [only used when printing]
 * Changed to using standard fonts, since using Google Fonts was render blocking [Under the impression the font is not important, since normal fonts looked very similar]
 
-#### Procedure Used
+##### Procedure Used
 
 * Checked out repository, used Coldfusion for localhost
 * Updated changes to 'gh-pages' branch for testing with Google PageSpeed Insights (http://mrbrianz.github.io/frontend-nanodegree-mobile-portfolio/index.html)
 
-#### Results
+##### Results
 
 * PageSpeed Score increased to 92 for Mobile, 93 for Desktop.
 
