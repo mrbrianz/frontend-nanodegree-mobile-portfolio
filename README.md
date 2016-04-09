@@ -46,7 +46,7 @@ Profile, optimize, measure... and then lather, rinse, and repeat. Good luck!
 
 ##### Results
 
-* PageSpeed Score increased to 92 for Mobile, 93 for Desktop.
+* PageSpeed Score increased to 93 for Mobile, and for Desktop.
 
 ####Part 2: Optimize Frames per Second in pizza.html
 
